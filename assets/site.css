@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'Philosopher';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('vendor/philosopher/Philosopher-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Philosopher';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('vendor/philosopher/Philosopher-Bold.ttf') format('truetype');
+}
+/* Keep the heading visible below the fixed navigation after following its link. */
+#publications { scroll-margin-top: 70px; }
